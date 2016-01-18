@@ -1,4 +1,4 @@
-package za.ac.cput.onlineStore.domain;
+package za.ac.cput.onlineStore.domainTest;
 
 /**
  * Created by student on 2015/10/15.

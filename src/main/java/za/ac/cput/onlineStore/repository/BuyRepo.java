@@ -1,5 +1,6 @@
 package za.ac.cput.onlineStore.repository;
 
+
 import org.springframework.data.repository.CrudRepository;
 import za.ac.cput.onlineStore.domain.Buy;
 
